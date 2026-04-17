@@ -1,0 +1,3 @@
+/home/sunrise/github_project/YOLOv8_RDKX5_object_detect/build/CMakeFiles/rdkx5_yolov8_detect.dir
+/home/sunrise/github_project/YOLOv8_RDKX5_object_detect/build/CMakeFiles/edit_cache.dir
+/home/sunrise/github_project/YOLOv8_RDKX5_object_detect/build/CMakeFiles/rebuild_cache.dir
