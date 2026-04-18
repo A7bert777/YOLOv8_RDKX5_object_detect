@@ -1,6 +1,6 @@
 # YOLOv8_RDKX5_object_detect
 
-CSDN地址：[【YOLOv8部署至RK3588】模型训练→转换RKNN→开发板部署](https://blog.csdn.net/A_l_b_ert/article/details/141610417?spm=1001.2014.3001.5502)
+CSDN地址：[【YOLOv8部署至RDK X5】模型训练→转换bin→Sunrise 5部署](https://blog.csdn.net/A_l_b_ert/article/details/160265320?spm=1001.2014.3001.5501)
 
 QQ咨询（not free）：2506245294
 
